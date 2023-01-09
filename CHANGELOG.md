@@ -1,3 +1,6 @@
+### Version 1.4.3
+* Replace deprecated `.exists?` method to support Ruby 3.2
+
 ### Version 1.4.2
 * Bump librato-rack dependency to fix warns with ruby 2.4
 
